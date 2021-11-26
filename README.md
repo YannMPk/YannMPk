@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YannMPk
-- 👀 I’m interested in  C programming, C++, PYTHON, JAVA, Web developme nt,cybersecurit , UNIX ...
+- 👀 I’m interested in  C programming, C++, PYTHON, JAVA, Web development, cybersecurité, hacking , UNIX ...
 - 🌱 I’m currently learning  PYTHON & JAVA
 - 💞️ I’m looking to collaborate on divers projets  de programmations web, Logiciel & systemes
 - 📫 How to reach me  mail to yann.mapouka@gmail.com
